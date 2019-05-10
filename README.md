@@ -1,3 +1,0 @@
-# hello-world
-tutorial
-I don't know what I'm doing...
